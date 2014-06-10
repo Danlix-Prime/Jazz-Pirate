@@ -1,1 +1,1 @@
-main = putStrLn"\ESC[0;34m First line ever!"
+main = putStr"\ESC[0;34m First line ever!\n"
