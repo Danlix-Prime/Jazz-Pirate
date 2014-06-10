@@ -1,0 +1,1 @@
+main = putStrLn"\ESC[0;34m First line ever!"
